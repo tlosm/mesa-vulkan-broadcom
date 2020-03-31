@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <xf86drm.h>
-#include <drm/msm_drm.h>
+#include <msm_drm.h>
 #include "device.h"
 #include "v3dvk_gem.h"
 
